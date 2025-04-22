@@ -3,14 +3,14 @@ from urllib import request, error
 from bs4 import BeautifulSoup
 #A library that makes webscraping easier
 
-site = "https://worldpopulationreview.com/country-rankings/crime-rate-by-country"
+site = "https://data.worldbank.org/indicator/SI.POV.GINI"
 
 response = BeautifulSoup(request.urlopen(site),"html.parser")
-TAB = response.find("table", class_="wpr-table min-w-full border-collapse")
-
-rows = TAB.find_all("tr")
-
-with open("Crime.csv", "w") as file:
+TAB = response.find("div", class_='btn-item download')
+print(TAB)
+rows = TAB.find_all("a")
+print(rows)
+"""with open("Crime.csv", "w") as file:
     file.write(".., Country, Crime index, Safety index")
     for row in rows:
         cells = row.find_all("td")
@@ -18,4 +18,5 @@ with open("Crime.csv", "w") as file:
         for cell in cells:
             row_contents.append(cell.text.strip())
         print(row_contents)
-        file.write(",".join(row_contents) + "\n")
+        file.write(",".join(row_contents) + "\n")"""
+
