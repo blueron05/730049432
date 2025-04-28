@@ -1,0 +1,2 @@
+blog post: https://blueron05.github.io/datascience/
+github repository: https://github.com/blueron05/datascience
