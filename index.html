@@ -126,6 +126,8 @@
 				variables we have analysed. To assure the model is accurate it needs to be checked for 
 				multicollinearity and heteroskedasticity. 	
 		<p/>
+		<img src="Multicollinearity.png" width="300" 
+        height="100" border="3">
 		<p>
 				To test for multicollinearity, I first ran a correlation test on the explanatory variables. The 
 				GDP per capita and HDI correlation could cause some cause for concern, as there is a strong 
@@ -133,6 +135,8 @@
 				calculations.
 		
 		<p/>
+		<img src="VIF.png" width="300" 
+        height="130" border="3">
 		<p>		
 				To find out if it is appropriate to include these variables together I calculated the variance
 				inflation factor. This calculates how much of the variance of a regression coefficient is 
@@ -147,6 +151,9 @@
 				The p value I got was 0.63 (2dp). A p value of lower than 0.05 would mean heteroskedasticity, so 
 				the model is also ok in this regard. 
 		<p/>
+		<img src="coefficient.png" width="600" 
+        height="35" border="3">		
+		
 		<p>			
 				The final model comes out to crime index = 51.58 + 0.71Gini – 39.90HDI -2.66x10^-5GDPperCapita. 
 				
