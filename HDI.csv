@@ -1,0 +1,194 @@
+..,Country,HDI tier,HDI
+,United States,Very High,0.927
+,Russia,Very High,0.821
+,Japan,Very High,0.920
+,Turkey,Very High,0.855
+,Germany,Very High,0.950
+,Thailand,Very High,0.803
+,United Kingdom,Very High,0.940
+,France,Very High,0.910
+,Italy,Very High,0.906
+,South Korea,Very High,0.929
+,Spain,Very High,0.911
+,Argentina,Very High,0.849
+,Canada,Very High,0.935
+,Poland,Very High,0.881
+,Malaysia,Very High,0.807
+,Saudi Arabia,Very High,0.875
+,Australia,Very High,0.946
+,Kazakhstan,Very High,0.802
+,Chile,Very High,0.860
+,Romania,Very High,0.827
+,Netherlands,Very High,0.946
+,Belgium,Very High,0.942
+,United Arab Emirates,Very High,0.937
+,Sweden,Very High,0.952
+,Czech Republic,Very High,0.895
+,Portugal,Very High,0.874
+,Greece,Very High,0.893
+,Hungary,Very High,0.851
+,Israel,Very High,0.915
+,Austria,Very High,0.926
+,Belarus,Very High,0.801
+,Switzerland,Very High,0.967
+,Hong Kong,Very High,0.956
+,Serbia,Very High,0.805
+,Denmark,Very High,0.952
+,Singapore,Very High,0.949
+,Finland,Very High,0.942
+,Norway,Very High,0.966
+,Oman,Very High,0.819
+,Slovakia,Very High,0.855
+,Ireland,Very High,0.950
+,New Zealand,Very High,0.939
+,Costa Rica,Very High,0.806
+,Kuwait,Very High,0.847
+,Panama,Very High,0.820
+,Croatia,Very High,0.878
+,Georgia,Very High,0.814
+,Uruguay,Very High,0.830
+,Qatar,Very High,0.875
+,Lithuania,Very High,0.879
+,Slovenia,Very High,0.926
+,Latvia,Very High,0.879
+,Bahrain,Very High,0.888
+,Trinidad and Tobago,Very High,0.814
+,Cyprus,Very High,0.907
+,Estonia,Very High,0.899
+,Luxembourg,Very High,0.927
+,Montenegro,Very High,0.844
+,Malta,Very High,0.915
+,Brunei,Very High,0.823
+,Bahamas,Very High,0.820
+,Iceland,Very High,0.959
+,Barbados,Very High,0.809
+,Seychelles,Very High,0.802
+,Antigua and Barbuda,Very High,0.826
+,Andorra,Very High,0.884
+,Saint Kitts and Nevis,Very High,0.838
+,Liechtenstein,Very High,0.942
+,San Marino,Very High,0.867
+,India,Medium,0.644
+,Bangladesh,Medium,0.670
+,Kenya,Medium,0.601
+,Myanmar,Medium,0.608
+,Uganda,Medium,0.550
+,Iraq,Medium,0.673
+,Angola,Medium,0.591
+,Morocco,Medium,0.698
+,Ghana,Medium,0.602
+,Cameroon,Medium,0.587
+,Nepal,Medium,0.601
+,Venezuela,Medium,0.699
+,Syria,Medium,0.557
+,Zambia,Medium,0.569
+,Guatemala,Medium,0.629
+,Cambodia,Medium,0.600
+,Zimbabwe,Medium,0.550
+,Bolivia,Medium,0.698
+,Haiti,Medium,0.552
+,Honduras,Medium,0.624
+,Tajikistan,Medium,0.679
+,Papua New Guinea,Medium,0.568
+,Laos,Medium,0.620
+,Nicaragua,Medium,0.669
+,El Salvador,Medium,0.674
+,Namibia,Medium,0.610
+,Gabon,Medium,0.693
+,Equatorial Guinea,Medium,0.650
+,Timor-Leste,Medium,0.566
+,Eswatini,Medium,0.610
+,Comoros,Medium,0.586
+,Solomon Islands,Medium,0.562
+,Bhutan,Medium,0.681
+,Suriname,Medium,0.690
+,Cape Verde,Medium,0.661
+,Vanuatu,Medium,0.614
+,Sao Tome and Principe,Medium,0.613
+,Kiribati,Medium,0.628
+,Micronesia,Medium,0.634
+,Nauru,Medium,0.696
+,Tuvalu,Medium,0.653
+,Pakistan,Low,0.540
+,Nigeria,Low,0.548
+,Ethiopia,Low,0.492
+,DR Congo,Low,0.481
+,Tanzania,Low,0.532
+,Sudan,Low,0.516
+,Afghanistan,Low,0.462
+,Yemen,Low,0.424
+,Mozambique,Low,0.461
+,Madagascar,Low,0.487
+,Ivory Coast,Low,0.534
+,Niger,Low,0.394
+,Mali,Low,0.410
+,Burkina Faso,Low,0.438
+,Malawi,Low,0.508
+,Chad,Low,0.394
+,Somalia,Low,0.380
+,Senegal,Low,0.517
+,Guinea,Low,0.471
+,Benin,Low,0.504
+,Rwanda,Low,0.548
+,Burundi,Low,0.420
+,South Sudan,Low,0.381
+,Togo,Low,0.547
+,Sierra Leone,Low,0.458
+,Liberia,Low,0.487
+,Central African Republic,Low,0.387
+,Mauritania,Low,0.540
+,Eritrea,Low,0.493
+,Gambia,Low,0.495
+,Lesotho,Low,0.521
+,Guinea-Bissau,Low,0.483
+,Djibouti,Low,0.515
+,China,High,0.788
+,Indonesia,High,0.713
+,Brazil,High,0.760
+,Mexico,High,0.781
+,Egypt,High,0.728
+,Philippines,High,0.710
+,Vietnam,High,0.726
+,Iran,High,0.780
+,South Africa,High,0.717
+,Colombia,High,0.758
+,Algeria,High,0.745
+,Ukraine,High,0.734
+,Uzbekistan,High,0.727
+,Peru,High,0.762
+,Sri Lanka,High,0.780
+,Ecuador,High,0.765
+,Tunisia,High,0.732
+,Jordan,High,0.736
+,Dominican Republic,High,0.766
+,Cuba,High,0.764
+,Azerbaijan,High,0.760
+,Turkmenistan,High,0.744
+,Libya,High,0.746
+,Kyrgyzstan,High,0.701
+,Paraguay,High,0.731
+,Bulgaria,High,0.799
+,Lebanon,High,0.723
+,Palestine,High,0.716
+,Mongolia,High,0.741
+,Bosnia and Herzegovina,High,0.779
+,Moldova,High,0.763
+,Armenia,High,0.786
+,Jamaica,High,0.706
+,Albania,High,0.789
+,Botswana,High,0.708
+,North Macedonia,High,0.765
+,Mauritius,High,0.796
+,Fiji,High,0.729
+,Guyana,High,0.742
+,Maldives,High,0.762
+,Belize,High,0.700
+,Samoa,High,0.702
+,Saint Lucia,High,0.725
+,Grenada,High,0.793
+,Tonga,High,0.739
+,Saint Vincent and the Grenadines,High,0.772
+,Dominica,High,0.740
+,Marshall Islands,High,0.731
+,Palau,High,0.797
+,Total,,
